@@ -1,12 +1,13 @@
 <h1 align="center">Hi There 👋, I'm Ali Kotb</h1>
-<h3 align="center">A passionate Computer Science student at NUB, cybersecurity enthusiast,and intersted in learning AI.</h3>
 
-
-
+<h3 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  
+  A passionate Computer Science student at NUB, cybersecurity enthusiast,and intersted in learning AI.</h3>
 
 - 💬 Ask me about : **(Penetration Testing & Ethical Hacking) (Network Security & System Administration) (Linux & Windows OS) (Problem Solving & Coding Challenges)**
 
+
 - 📫 How to reach me : **alikotb3333@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
